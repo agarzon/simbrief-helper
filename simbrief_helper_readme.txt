@@ -5,7 +5,7 @@ You can do the same with Avitab and read the PDF? Yes ... but:
 You need to download the PDF and save it in a specific folder each time. While this plugin pulls the full data with just one click inside without leaving the simulator.
 The PDF is heavy and with tons of garbage and useless information.
 Also, I have plans to integrate a "load me" button to automatically load your aircraft with fuel and payload based on your flight plan.
-No everybody has Avitab, also Avitab does a lot more things! (which is nice) but because that consumes more resources (VR user's needs resources as air to breath!)
+No everybody has Avitab, also Avitab does a lot more things! (which is nice) but because that consumes more resources (VR user’s needs resources as air to breath!)
 How it works?
 
 Using Simbrief API, this script pulls your flight plan and save it as an XML file that then is been parsed. All you need to provide is your Simbrief username.
